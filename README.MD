@@ -7,8 +7,8 @@
 3. Install a HTTP proxy. Here	are instructions for ZAP: (https://www.dropbox.com/s/isps6z89lt4gpv4/OK-OWASPZAPinstallation-110118-1032-189.pdf?dl=0)
 4. Start hacking (you	can start without the proxy.)
 
-Target 1, the minimal and easy one: http://34.241.53.48:5000
-Target 2, Google Gruyere: https://google-gruyere.appspot.com/start
+* Target 1, the minimal and easy one: http://34.241.53.48:5000
+* Target 2, Google Gruyere: https://google-gruyere.appspot.com/start
 
 ## How to hack?
 
